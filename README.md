@@ -5,8 +5,8 @@
 - No speculation without context—when discussing rumors or unverified news, **clearly label them as such** and cite your source.
 
 ## Scope of Discussion: Stick to Financial Relevance
-- Avoid political discussion **unless it directly and imminently affects investment or market fundamentals** (e.g., a newly passed tax law).  
 - Discussions must remain **on-topic**, focusing on market trends, company performance, regulation, risk analysis, etc.
+- Avoid political discussion **unless it directly and imminently affects investment or market fundamentals** (e.g., a newly passed tax law).  
 
 ## AI-Generated Content
 - If you use AI tools (such as ChatGPT, Gemini, or other assistants) to create or summarize content, **please clearly state that it is AI-generated**.  
