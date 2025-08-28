@@ -5,7 +5,7 @@
 - No speculation without context—when discussing rumors or unverified news, **clearly label them as such** and cite your source.
 
 ## Scope of Discussion: Stick to Financial Relevance
-- Discussions must remain **on-topic**, focusing on market trends, company performance, regulation, risk analysis, etc.
+- Discussions must remain **on-topic**, focusing on market trends, risk analysis, etc.
 - Avoid political discussion **unless it directly and imminently affects investment or market fundamentals** (e.g., a newly passed tax law).  
 
 ## AI-Generated Content
