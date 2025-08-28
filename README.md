@@ -1,7 +1,8 @@
 # Group Rules
 
 ## Source Integrity & Reliability
-- Anchor all financial discussions in **trusted, authoritative sources**, such as Coinbase (for crypto), established financial news services (e.g., Bloomberg, Reuters, Financial Times), regulatory filings, or official disclosures.  
+- Anchor all financial discussions in **trusted, authoritative sources**, such as Coinbase (for crypto), established financial news services (e.g., Bloomberg, Reuters, Financial Times, YFinance), regulatory filings, or official disclosures.
+- Examples of unreliable sources include Discord, clickbait, titles like “Top 5 Altcoins to Buy Now,” U.Today, CryptoSlatem, NewsBTC, TikTok, most SOLO "influencers" on YouTube, Instagram and Twitter. Official verified social media channels from reliable sources are OK.
 - No speculation without context—when discussing rumors or unverified news, **clearly label them as such** and cite your source.
 
 ## Scope of Discussion: Stick to Financial Relevance
